@@ -186,3 +186,21 @@ input[type='range']::-webkit-slider-thumb {
 li {
   line-height: 1.0;
 }
+
+
+#header{
+    background: black;
+    padding: 12px;
+}
+
+#header ul li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+}
+
+#header ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
