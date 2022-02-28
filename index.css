@@ -96,6 +96,30 @@ h1 {
     }
 }
 
+#Titulo3{
+    background: #F1F1F1;
+    color: #000000;
+    margin: 10px;
+    padding: 10px;
+    width: 1200px;
+    box-shadow: 8px 8px 35px 0px rgb(0 0 0 / 75%);
+    border-radius: var(--borde-redondo);
+    animation-duration: 1s;
+    animation-name: Nombre3;
+}
+
+#Titulo4{
+    background: #F1F1F1;
+    color: #000000;
+    margin: 10px;
+    padding: 10px;
+    width: 1200px;
+    box-shadow: 8px 8px 35px 0px rgb(0 0 0 / 75%);
+    border-radius: var(--borde-redondo);
+    animation-duration: 1s;
+    animation-name: Nombre3;
+}
+
 #Mision{
     text-align: justify;
 }
